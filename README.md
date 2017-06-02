@@ -1,14 +1,20 @@
 Linio Back-End developer
+
 Eric Zuchovicki
+
 Programming language used: Python 3.4.3
 
 -> Here is my solution to the task. It was a really challenging and entertaining one.
+
 -> I'm sending two possible solutions that comply with the specified restrictions. The first one seems a little bit like
 cheating to me, given that even though I don't use IF statements I use regular expressions and I didn't know if it was
 allowed. The second one uses a single IF statement and makes better use of Python structures.
--> Running the program (python linio_numbers.py) runs both implementations, one after the other, followed by the unit tests.
+
+-> Running the program (python linio_numbers.py) runs both implementations, one after the other, followed by the unit
+tests.
 
 I hope you find it interesting!
+
 
 
 
